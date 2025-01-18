@@ -26,7 +26,7 @@ This project involves cleaning and preprocessing the `gender_inequality_index.cs
 
 You can run the project directly on Google Colab using the link below:
 
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SOsZwAiIZhTIvcKijrnvOh2tTXpAQFkM?usp=sharing)
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fIHVMrv2WoU5wAlnpNboZddtyfo3YaK_?usp=sharing)
 
 ### Option 2: Run Locally
 
