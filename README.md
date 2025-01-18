@@ -7,5 +7,3 @@ This project focuses on cleaning and processing the "gender_inequality_index.csv
 - Converting columns to appropriate numeric formats.
 - Handling missing data.
 - Creating new features to improve analysis.
-
-These steps help ensure that the dataset is ready for a more accurate and insightful exploration of gender inequality patterns worldwide.
