@@ -1,7 +1,6 @@
-# preprocessing-techniques
 # Gender Inequality Data Processing
 
-This Google Colab notebook demonstrates the data processing steps applied to the "gender_inequality_index.csv" dataset, which contains various indicators of gender inequality across countries. The goal is to clean and prepare the data for analysis. The steps performed include:
+This project focuses on cleaning and processing the "gender_inequality_index.csv" dataset, which contains indicators of gender inequality across different countries. The goal is to prepare the data for further analysis and help uncover patterns in gender inequality. 
 
 - Removing unwanted or irrelevant values.
 - Eliminating duplicate entries.
